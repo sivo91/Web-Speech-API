@@ -62,10 +62,10 @@ span {
 }
 
 
-
+/* for iphone */
 @media only screen and (max-width: 600px) {
 
   main {
-    left: 0;
+   left: 0;
   }
 }
